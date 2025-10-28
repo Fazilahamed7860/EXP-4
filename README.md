@@ -1,4 +1,4 @@
-# EXP-4
+![ex 5](https://github.com/user-attachments/assets/53111f7d-4636-4521-a9d3-e587d3b05734)# EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
@@ -37,17 +37,24 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+![ex 5 half wave](https://github.com/user-attachments/assets/3d6a3637-8724-4773-b130-34b046f63f82)
 
 Bridge rectifier with filter:
+![bridge 5](https://github.com/user-attachments/assets/729fd86e-67f0-45a6-86b7-d0a496cfac6c)
 
 TABULAR COLUMN
 Rectifier without filter
 TABULAR COLUMN
-Rectifier with filter
+Rectifier with filter![table  half wave](https://github.com/user-attachments/assets/986461b8-bb67-43b3-9c8f-8e73b33f9d77)
+![table 2](https://github.com/user-attachments/assets/947fda94-7327-4991-923d-86b1dd68f447)
+
 
 WAVEFORM:
+![graoh ](https://github.com/user-attachments/assets/c34322ce-1de7-4c3c-8a8b-f23a88a4d352)
 
 
 RESULT:
+![ex 5](https://github.com/user-attachments/assets/497a76f5-ed6e-481a-b37c-b339a86acdf1)
 
-Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
+Input and Outp!
+ut waveforms of a half and full bridge-wave with /without filter are observed and plotted.
